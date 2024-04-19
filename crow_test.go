@@ -3,9 +3,9 @@ package crow_test
 import (
 	"testing"
 
+	"github.com/peterjamesmatthews/crow"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
-	"pjm.dev/crow"
 )
 
 type User struct {

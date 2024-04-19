@@ -1,4 +1,4 @@
-module pjm.dev/crow
+module github.com/peterjamesmatthews/crow
 
 go 1.21.7
 
